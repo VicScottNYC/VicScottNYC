@@ -2,7 +2,6 @@
 <br>
 <br>
 🚀 What Drives Me I believe great applications should do more than function well. They should be intuitive, visually engaging, and genuinely valuable to the people using them. My goal is to combine software engineering, thoughtful UI/UX design, automation, and AI to build applications that help businesses innovate, strengthen their brands, and deliver exceptional customer experiences.
-
 <br>
 <br>
 🎯 My Mission To bridge the gap between technology, business, and creative design—building applications that don't just solve problems but create experiences people love.
