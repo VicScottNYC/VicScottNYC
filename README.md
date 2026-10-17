@@ -5,7 +5,7 @@
 
 🚀 What Drives Me I believe great applications should do more than function well. They should be intuitive, visually engaging, and genuinely valuable to the people using them. My goal is to combine software engineering, thoughtful UI/UX design, automation, and AI to build applications that help businesses innovate, strengthen their brands, and deliver exceptional customer experiences. 
 
-🛠️ My Technical Foundation Programming & Scripting<br><br>HTML<br>Python<br>PowerShell<br>Bash<br>JSON Enterprise Technology<br>Microsoft Azure<br>Microsoft Entra ID<br>Microsoft 365<br>IT Infrastructure & Automation<br>Enterprise Systems Administration Currently Expanding Into<br>CSS3 & JavaScript<br>TypeScript<br>React & Next.js<br>Backend Development & REST APIs<br>Database Design<br>AI-Powered Application Development<br>UI/UX Design 🎯 My Mission To bridge the gap between technology, business, and creative design—building applications that don't just solve problems but create experiences people love.
+🎯 My Mission To bridge the gap between technology, business, and creative design—building applications that don't just solve problems but create experiences people love.
 
 
 ## 🌐 Socials:
