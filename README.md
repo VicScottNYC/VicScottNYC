@@ -1,32 +1,18 @@
-💫 About Me:
-👋 Hi, I’m Vic! 💻 IT Professional | Aspiring Full-Stack Developer | Creative Technologist I’m an IT professional with over 20 years of experience in enterprise technology, technical support, and IT operations. My career began as a Junior Web Developer before evolving into enterprise IT, where I developed a strong understanding of how technology supports business operations, improves efficiency, and enhances the user experience. Throughout my career, I’ve worked extensively with PowerShell, Python, Bash, JSON, and HTML, building technical solutions, automating processes, and solving complex challenges. Spending over eight years working in the fashion industry also gave me a deeper appreciation for design, branding, and the importance of creating memorable customer experiences. Creativity has always been part of who I am. Growing up with a passion for art, I developed an eye for visual design, composition, and aesthetics. Today, I’m bringing that creative background together with my technical experience as I pursue my next chapter in full-stack software development. 🚀 What Drives Me I believe great applications should do more than function well. They should be intuitive, visually engaging, and genuinely valuable to the people using them. My goal is to combine software engineering, thoughtful UI/UX design, automation, and AI to build applications that help businesses innovate, strengthen their brands, and deliver exceptional customer experiences. 🛠️ My Technical Foundation Programming & Scripting
-
-HTML
-Python
-PowerShell
-Bash
-JSON Enterprise Technology
-Microsoft Azure
-Microsoft Entra ID
-Microsoft 365
-IT Infrastructure & Automation
-Enterprise Systems Administration Currently Expanding Into
-CSS3 & JavaScript
-TypeScript
-React & Next.js
-Backend Development & REST APIs
-Database Design
-AI-Powered Application Development
-UI/UX Design 🎯 My Mission To bridge the gap between technology, business, and creative design—building applications that don’t just solve problems but create experiences people love.
-
-🌐 Socials:
-LinkedIn email
-
-💻 Tech Stack:
-Python HTML5 Azure PowerShell Bash Script Windows Terminal Google Cloud AWS Expo NodeJS React Next JS Supabase MySQL MicrosoftSQLServer React Native Web3.js Pandas scikit-learn PyTorch GitHub Actions GitHub
-
-📊 GitHub Stats:
+# 💫 About Me:
+👋 Hi, I'm Vic! 💻 IT Professional | Aspiring Full-Stack Developer | Creative Technologist I'm an IT professional with over 20 years of experience in enterprise technology, technical support, and IT operations. My career began as a Junior Web Developer before evolving into enterprise IT, where I developed a strong understanding of how technology supports business operations, improves efficiency, and enhances the user experience. Throughout my career, I've worked extensively with PowerShell, Python, Bash, JSON, and HTML, building technical solutions, automating processes, and solving complex challenges. Spending over eight years working in the fashion industry also gave me a deeper appreciation for design, branding, and the importance of creating memorable customer experiences. Creativity has always been part of who I am. Growing up with a passion for art, I developed an eye for visual design, composition, and aesthetics. Today, I'm bringing that creative background together with my technical experience as I pursue my next chapter in full-stack software development. 🚀 What Drives Me I believe great applications should do more than function well. They should be intuitive, visually engaging, and genuinely valuable to the people using them. My goal is to combine software engineering, thoughtful UI/UX design, automation, and AI to build applications that help businesses innovate, strengthen their brands, and deliver exceptional customer experiences. 🛠️ My Technical Foundation Programming & Scripting<br><br>HTML<br>Python<br>PowerShell<br>Bash<br>JSON Enterprise Technology<br>Microsoft Azure<br>Microsoft Entra ID<br>Microsoft 365<br>IT Infrastructure & Automation<br>Enterprise Systems Administration Currently Expanding Into<br>CSS3 & JavaScript<br>TypeScript<br>React & Next.js<br>Backend Development & REST APIs<br>Database Design<br>AI-Powered Application Development<br>UI/UX Design 🎯 My Mission To bridge the gap between technology, business, and creative design—building applications that don't just solve problems but create experiences people love.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-scott-a4ba6a58/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victormichael2003@yahoo.com) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=VicScottNYC&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=VicScottNYC&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VicScottNYC&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://komarev.com/ghpvc/?username=VicScottNYC&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
