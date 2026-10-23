@@ -1,4 +1,4 @@
-👋🏼 Hi, I'm Vic! 
+Hello, I'm Vic! 
 <br>
 <br>
 💻 Senior IT Professional | Aspiring Full-Stack Developer | Creative Technologist I'm an IT professional with over 18 years of experience in enterprise technology, technical support, and IT operations. My career began as a Junior Web Developer before evolving into enterprise IT, where I developed a strong understanding of how technology supports business operations, improves efficiency, and enhances the user experience. I’ve leveraged my experience with PowerShell, Python, Bash, JSON, and HTML to develop technical solutions, automate workflows, streamline operations, and troubleshoot complex technical challenges. Spending over 10 years working in the fashion industry also gave me a deeper appreciation for design, branding, and the importance of creating memorable customer experiences. Creativity has always been part of who I am. Growing up with a passion for art, I developed an eye for visual design, composition, and aesthetics. Today, I'm bringing that creative background together with my technical experience as I pursue my next chapter in full-stack software development. 
